@@ -1,2 +1,2 @@
 # Inventory Tracker
-sale tracker for the small business owner or also known as sari sari store
+Inventory tracker for the small business owner or also known as sari sari store
